@@ -1,5 +1,5 @@
 # shemon
-To keep eye on your children processus ^_^ (Only for Unix-like operating system for now....)
+To keep an eye on your child processus ^_^ (Only for Unix-like operating system for now....)
 
 
 1. todo list:
